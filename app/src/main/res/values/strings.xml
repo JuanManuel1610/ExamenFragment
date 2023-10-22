@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ExamenFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titulo">Examen</string>
+    <string name="btnprin">Salir</string>
+    <string name="fraguno">Preguntas de Examen</string>
+    <string name="btnatras">Atras</string>
+    <string name="btnsi">Siguiente</string>
+    <string name="btncali">Calificar</string>
+    <string name="Fragdos">Calificacion</string>
+    <string name="lblaciertos">Aciertos</string>
+    <string name="lblfallos">Fallos</string>
+    <string name="lblcal">Calificacion</string>
+    <string name="prindos">Calificar</string>
+    <string name="examen">Examen</string>
+</resources>
